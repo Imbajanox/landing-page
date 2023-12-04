@@ -139,7 +139,9 @@ a{
     align-items: center;
     padding-top: 48px;
     padding-bottom: 48px;
-    margin: 20vw;
+    margin-top: 96px;
+    margin-left: 20vw;
+    margin-right: 20vw;
     background-color: #3882F6;
     color: #f9f9f9;
     border-radius: 5px;
